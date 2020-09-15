@@ -1,6 +1,5 @@
-### Hi there, I'm Dazui 👋
+## Hi there, I'm Dazui 👋 a Developer👨‍💻:
 
-## I'm a Developer👨‍💻:
 From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Alcoholic 🥃 Cameraman 📸 Smoker 🚬
 
 <!--
