@@ -1,6 +1,6 @@
 ## Hi there, I'm Dazui 👋 a Developer👨‍💻:
 
-From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Alcoholic 🥃 Cameraman 📸 Smoker 🚬
+From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Drinker 🥃 Cameraman 📸 Smoker 🚬
 
 <!--
 **imDazui/imDazui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
