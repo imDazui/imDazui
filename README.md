@@ -1,5 +1,11 @@
 ## Hi there, I'm Dazui 👋 a Developer👨‍💻:
 
+TIMEACTOR 创始人
+
+我的独立作品：
+- 时者八字： [https://bazi.time.actor](https://bazi.time.actor)
+- 卡皮日历： [https://cal.time.actor](https://cal.time.actor)
+
 From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Drinker 🥃 Cameraman 📸 Smoker 🚬
 
 <!--
