@@ -1,7 +1,9 @@
 ## Hi there, I'm Dazui 👋 a Developer👨‍💻:
 
 My boss disappeared with 28 months of unpaid salary.
+
 So I started working for myself — building AI-powered tools based on metaphysics.
+
 👇
 
 我的独立作品：
