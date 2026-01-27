@@ -8,8 +8,10 @@ So I started working for myself — building AI-powered tools based on metaphysi
 
 我的独立作品：
 - 时者八字： [https://bazi.time.actor](https://bazi.time.actor)
-- 时者塔罗： [https://tarot.time.actor](https://tarot.time.actor)
 - 时者问卦： [https://gua.time.actor](https://gua.time.actor)
+- 时者风水： [https://xuankong.time.actor](https://xuankong.time.actor)
+- 时者解签： [https://qian.time.actor](https://qian.time.actor)
+- 时者塔罗： [https://tarot.time.actor](https://tarot.time.actor)
 - 卡皮日历： [https://cal.time.actor](https://cal.time.actor)
 
 From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Drinker 🥃 Cameraman 📸 Smoker 🚬
