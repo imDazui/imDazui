@@ -1,20 +1,34 @@
-## Hi there, I'm Dazui 👋 a Developer👨‍💻:
+## Hi there, I'm Dazui 👋  
+An independent developer 👨‍💻 building AI products at the edge of technology and metaphysics.
 
-My boss disappeared with 28 months of unpaid salary.
+Once, my boss disappeared — along with **28 months of unpaid salary**.  
+So I stopped waiting and started building.
 
-So I started working for myself — building AI-powered tools based on metaphysics.
+Now I work for myself, creating AI-powered tools inspired by traditional metaphysics,  
+turning ancient systems into modern, usable experiences.
 
-👇
+👇 **Things I’ve built**
 
-我的独立作品：
-- 时者八字： [https://bazi.time.actor](https://bazi.time.actor)
-- 时者问卦： [https://gua.time.actor](https://gua.time.actor)
-- 时者风水： [https://xuankong.time.actor](https://xuankong.time.actor)
-- 时者解签： [https://qian.time.actor](https://qian.time.actor)
-- 时者塔罗： [https://tarot.time.actor](https://tarot.time.actor)
-- 卡皮日历： [https://cal.time.actor](https://cal.time.actor)
+- **AI Bazi (Four Pillars of Destiny)**  
+  https://bazi.time.actor  
+- **AI Divination (I Ching / Gua)**  
+  https://gua.time.actor  
+- **AI Feng Shui (Xuan Kong)**  
+  https://xuankong.time.actor  
+- **AI Fortune Stick Interpretation**  
+  https://qian.time.actor  
+- **AI Tarot Reading**  
+  https://tarot.time.actor  
+- **CapyCal – A Calendar for Focus & Self-Management**  
+  https://cal.time.actor  
 
-From 🇨🇳 Aquarius ♒️ Gamer 🎮 Travel 🌍 Drinker 🥃 Cameraman 📸 Smoker 🚬
+---
+
+From 🇨🇳  
+Aquarius ♒️ · Gamer 🎮 · Traveler 🌍 · Drinker 🥃 · Cameraman 📸 · Smoker 🚬  
+
+Building quietly. Iterating constantly.  
+Letting time do the talking.
 
 <!--
 **imDazui/imDazui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
