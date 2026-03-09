@@ -24,9 +24,6 @@ turning ancient systems into modern, usable experiences.
 
 ---
 
-From 🇨🇳  
-Aquarius ♒️ · Gamer 🎮 · Traveler 🌍 · Drinker 🥃 · Cameraman 📸 · Smoker 🚬  
-
 Building quietly. Iterating constantly.  
 Letting time do the talking.
 
@@ -43,4 +40,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+From 🇨🇳  
+Aquarius ♒️ · Gamer 🎮 · Traveler 🌍 · Drinker 🥃 · Cameraman 📸 · Smoker 🚬  
 -->
