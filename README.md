@@ -21,11 +21,11 @@ I am deeply grateful for this incredible era of AI—"vibe coding" has made the 
 - Marriage Analysis: Reveal match compatibility based on BaZi.
 - Business Partnership: Analyze potential in joint ventures.
 
-#### [Xuan Kong (Feng Shui)(https://xuankong.time.actor)
+#### [Xuan Kong (Feng Shui)](https://xuankong.time.actor)
 
 - A professional Xuan Kong Flying Star charting tool. Freely draw, overlay floor plans, and deduce annual fluctuations on an infinite canvas.
 
-#### [Divination (Gua)(https://gua.time.actor)
+#### [Divination (Gua)](https://gua.time.actor)
 
 - Xiao Liu Ren: Quick divination on the palm.
 - Da Yan Divination: Random hexagram casting for trend revelation.
@@ -33,7 +33,7 @@ I am deeply grateful for this incredible era of AI—"vibe coding" has made the 
 - Manual Casting: Assist I Ching enthusiasts in research.
 - 64 Hexagrams: I Ching hexagram reference.
 
-#### [Fortune Sticks (Qian)(https://qian.time.actor)
+#### [Fortune Sticks (Qian)](https://qian.time.actor)
  
 - A collection of regional fortune stick practices, online drawing, interpretation, and incense reading guides, along with a digital wooden fish for accumulating merit.
 
